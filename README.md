@@ -3,7 +3,7 @@
 
 Remote Administration Tool for Android
 
-Androrat is a client/server application developed in Java Android for the client side and in Java/Swing for the Server.
+Androrat is a client/server application developed in Java Android for the cpolient side and in Java/Swing for the Server.
 
 > The name Androrat is a mix of Android and RAT (Remote Access Tool).
 
